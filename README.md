@@ -1,2 +1,3 @@
 # US-Intl-Fr
-Clavier qwerty adapté pour le franças
+Clavier qwerty adapté pour le français
+
