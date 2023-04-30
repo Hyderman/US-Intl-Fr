@@ -1,7 +1,3 @@
-# US-Intl-Fr
-Clavier qwerty adapté pour le français
+# Clavier QWERTY adapté pour le français
 
-![](Images/Layout01.jpg)
-![](Images/Layout01Shft.jpg)
-![](Images/Layout01AltGr.jpg)
-![](Images/Layout01ShftAltGr.jpg)
+Utiliser Microsoft Keyboard Layout Creator et importer le .klc pour voir les différentes touches.
